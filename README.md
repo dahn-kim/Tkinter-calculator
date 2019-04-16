@@ -11,3 +11,7 @@
 7. Click action
 8. Get Data 
 9. Message box
+
+## Instructions:
+1. Install virtual environment through termianl in the same folder as calculator.py
+2. Activate the virtual environment and execute the calculator.py file
